@@ -1,0 +1,21 @@
+.clear{
+    background-color: red;
+    flex: 1;
+    margin: 5px;
+    color: white;
+    height: 80px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 2rem;
+    letter-spacing: 2px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.clear:hover{
+    background-color:rgb(184, 218, 17);
+}
